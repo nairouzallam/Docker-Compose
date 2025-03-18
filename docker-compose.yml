@@ -1,4 +1,4 @@
-
+#Build wordpress with MySQL 
 services:
   # Database layer for WordPress
   mysql_database:
